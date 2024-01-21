@@ -18,7 +18,7 @@ Before running the project, make sure you have the following prerequisites insta
 
 
 1. Open your browser and visit http://localhost:3000 to access the AI chatbot for farmers.
-   ![AgriBot: An AI-Powered Farmer's Companion](./web_images/home_page.png)
+   ![AgriBot: An AI-Powered Farmer's Companion](./web_images/chat.png)
 
 2. Weather forecasting
  ![AgriBot_weather](./web_images/weather.png)
