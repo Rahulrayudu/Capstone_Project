@@ -1,0 +1,19 @@
+
+yield prediction dataset:
+
+1990 - 2016:
+https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset/data
+
+
+
+Agri bot:
+
+Tamil Nadu: 
+1, Mayiladuthurai District of Tamil Nadu for the month of February 2023:
+http://dackkms.gov.in/Account/API/kKMS_QueryData.aspx?StateCD=18&DistrictCd=1837&Month=2&Year=2023
+
+2,Mayiladuthurai District of Tamil Nadu for the month of March 2023
+http://dackkms.gov.in/Account/API/kKMS_QueryData.aspx?StateCD=18&DistrictCd=1837&Month=3&Year=2023
+
+3,Kallakurichi District of Tamil Nadu for the month of January 2023
+http://dackkms.gov.in/Account/API/kKMS_QueryData.aspx?StateCD=18&DistrictCd=1835&Month=1&Year=2023
